@@ -24,26 +24,6 @@ Solutions are organized by problem patterns:
 └── Graphs
 ```
 
-## Solution Format
-
-Each solution includes:
-```python
-"""
-Problem: [Name and LeetCode Link]
-Pattern: [Problem Pattern]
-Approach:
-- Detailed thought process
-- Step by step explanation
-
-Time Complexity: O(?)
-Space Complexity: O(?)
-
-Learning Points:
-- Key concepts learned
-- Common pitfalls
-- Important patterns
-"""
-```
 
 ## Progress Tracking
 
